@@ -5,18 +5,16 @@
 
 ### Full Stack Developer | Mobile Developer
 
-Desenvolvedor Full Stack, atualmente atuando com foco em
-**desenvolvimento de aplicações mobile para Android e iOS**.
+**Mais de 6 anos de experiência em desenvolvimento de software.**
 
-Tenho experiência na construção de soluções web e mobile,
-integrando interfaces modernas, APIs, bancos de dados
-e serviços em nuvem.
+Sou desenvolvedor Full Stack, atualmente atuando com foco
+em desenvolvimento Mobile, criando aplicações para
+Android e iOS utilizando React Native.
 
-<br/>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Tenho experiência no desenvolvimento de soluções completas,
+desde interfaces e APIs até bancos de dados, serviços em
+nuvem, integração de modelos de Inteligência Artificial
+e automação de processos de deploy.
 
 </div>
 
@@ -24,12 +22,15 @@ e serviços em nuvem.
 
 ## 👨‍💻 Sobre mim
 
-- 💻 **Full Stack Developer**, com atuação atual em desenvolvimento Mobile.
-- 📱 Desenvolvimento de aplicações para **Android e iOS utilizando React Native**.
-- 🌐 Experiência no desenvolvimento de aplicações web e integração com APIs.
-- 🗄️ Conhecimento em bancos de dados relacionais e soluções Backend as a Service.
-- ⚙️ Interesse em arquitetura de software, performance e código limpo.
-- 🚀 Sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
+- 💻 **+6 anos de experiência** em desenvolvimento de software.
+- 📱 **Full Stack Developer**, atualmente com foco em Mobile.
+- 🚀 Desenvolvimento de aplicativos Android e iOS com React Native.
+- 🌐 Experiência com aplicações web, backend e integrações de APIs.
+- 🤖 Implementação e integração de modelos de Inteligência Artificial em aplicações.
+- ☁️ Integração com serviços em nuvem, incluindo Firebase, Supabase e AWS S3.
+- ⚙️ Automação de builds, deploys e publicação de aplicativos.
+- 📦 Experiência com distribuição de aplicativos na Google Play Store e Apple App Store.
+- 🧠 Foco em qualidade de código, performance e arquitetura de software.
 
 ---
 
@@ -38,18 +39,18 @@ e serviços em nuvem.
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,apple&theme=dark" alt="Mobile Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,apple&theme=dark" alt="Mobile Development"/>
 </p>
 
-**React Native • TypeScript • JavaScript • Android • iOS**
+React Native • TypeScript • JavaScript • Android • iOS
 
 ### 💻 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css&theme=dark" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css&theme=dark" alt="Frontend Development"/>
 </p>
 
-**React • Next.js • Vue.js • Angular • HTML • CSS**
+React • Next.js • Vue.js • Angular • HTML • CSS
 
 ### ⚙️ Backend & Database
 
@@ -57,63 +58,102 @@ e serviços em nuvem.
   <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,sqlite&theme=dark" alt="Backend and Database"/>
 </p>
 
-**Node.js • Firebase • Supabase • MySQL • SQLite**
+Node.js • Firebase • Supabase • MySQL • SQLite
 
-### 🔧 Tools & Technologies
+### ☁️ Cloud & File Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,redux,styledcomponents,postman&theme=dark" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,supabase&theme=dark" alt="Cloud Services"/>
 </p>
 
-**Git • GitHub • VS Code • Redux • Styled Components • Postman**
+- **AWS S3:** upload, armazenamento, gerenciamento e recuperação de arquivos.
+- **Firebase:** integração de serviços e recursos de backend.
+- **Supabase:** integração de banco de dados e serviços de backend.
+
+### 🤖 Artificial Intelligence
+
+Experiência na implementação de funcionalidades que
+utilizam modelos de Inteligência Artificial em
+aplicações web e mobile.
+
+- Integração de modelos de IA por meio de APIs.
+- Implementação de funcionalidades inteligentes em aplicativos.
+- Comunicação entre aplicações, serviços de backend e modelos de IA.
+- Desenvolvimento de soluções que incorporam recursos de Inteligência Artificial.
+
+### 🚀 DevOps, CI/CD & Deployment
+
+Experiência na automação de processos de build,
+distribuição e publicação de aplicações mobile.
+
+- **CI/CD:** automação de processos de build e deploy.
+- **Android:** geração, preparação e publicação de builds para a Google Play Store.
+- **iOS:** geração, preparação e distribuição de builds para a Apple App Store.
+- **Release Management:** organização e gerenciamento de versões de aplicativos.
+- **Deployment Automation:** automação de etapas de entrega e publicação de novas versões.
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,redux,styledcomponents&theme=dark" alt="Development Tools"/>
+</p>
+
+Git • GitHub • VS Code • Postman • Redux • Styled Components
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Especialidades
+
+| Área | Experiência |
+|------|-------------|
+| 📱 Mobile | React Native, Android e iOS |
+| 🌐 Full Stack | Frontend, Backend e APIs |
+| 🤖 Inteligência Artificial | Integração de modelos de IA em aplicações |
+| ☁️ Cloud | Firebase, Supabase e AWS S3 |
+| 🗄️ Database | MySQL, SQLite e bancos de dados em nuvem |
+| 🚀 DevOps | CI/CD, automação de builds e deploys |
+| 📦 App Distribution | Google Play Store e Apple App Store |
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Mynameisjohndev&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
+<a href="https://github.com/Mynameisjohndev?tab=followers">
+  <img src="https://img.shields.io/github/followers/Mynameisjohndev?style=flat-square&logo=github&label=Seguidores&color=238636" alt="GitHub Followers"/>
+</a>
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynameisjohndev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
+<a href="https://github.com/Mynameisjohndev?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Mynameisjohndev?style=flat-square&logo=github&label=Estrelas&color=238636" alt="GitHub Stars"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Mynameisjohndev?tab=overview">
+  Ver histórico de contribuições no GitHub
+</a>
 
 </div>
 
 ---
 
-## 🚀 Áreas de atuação
-
-- **Mobile:** desenvolvimento de aplicativos multiplataforma.
-- **Frontend:** construção de interfaces web modernas e responsivas.
-- **Backend:** integração e desenvolvimento de APIs e serviços.
-- **Database:** modelagem, consultas e gerenciamento de dados.
-- **Cloud:** integração com Firebase e Supabase.
-
----
-
 <div align="center">
 
-### 💬 Vamos nos conectar?
+### Vamos nos conectar?
 
 <a href="https://github.com/Mynameisjohndev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://github.com/Mynameisjohndev?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Meus_Projetos-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br/>
 <br/>
 
-**Full Stack Developer • Currently focused on Mobile Development**
+**Full Stack Developer | Mobile Development | AI Integration | CI/CD**
 
 </div>
