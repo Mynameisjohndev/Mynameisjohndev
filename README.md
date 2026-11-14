@@ -1,129 +1,119 @@
 
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Web%20%7C%20Mobile%20%7C%20Technology&descAlignY=59&descSize=19"
-    alt="Full Stack Developer"
-  />
 
-  <h2>👋 Olá, seja bem-vindo ao meu GitHub!</h2>
+# Olá, eu sou o João! 👋
 
-  <p>
-    Desenvolvedor Full Stack apaixonado por tecnologia, inovação
-    e pela criação de aplicações web e mobile.
-  </p>
+### Full Stack Developer | Mobile Developer
 
-  <p>
-    <strong>React Native • React • TypeScript • Node.js</strong>
-  </p>
+Desenvolvedor Full Stack, atualmente atuando com foco em
+**desenvolvimento de aplicações mobile para Android e iOS**.
 
-  <a href="https://github.com/Mynameisjohndev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Mynameisjohndev?tab=repositories">
-    <img src="https://img.shields.io/badge/Meus_Projetos-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+Tenho experiência na construção de soluções web e mobile,
+integrando interfaces modernas, APIs, bancos de dados
+e serviços em nuvem.
 
 <br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
 
 ## 👨‍💻 Sobre mim
 
-- 🚀 Desenvolvedor focado em aplicações **web e mobile**
-- 📱 Desenvolvimento mobile com **React Native e TypeScript**
-- 💻 Desenvolvimento web com **React, Next.js e Node.js**
-- 🗄️ Experiência com **Firebase, MySQL e SQLite**
-- ⚡ Interesse em performance, arquitetura e experiência do usuário
-- 🎯 Sempre buscando aprimorar minhas habilidades e desenvolver novas soluções
+- 💻 **Full Stack Developer**, com atuação atual em desenvolvimento Mobile.
+- 📱 Desenvolvimento de aplicações para **Android e iOS utilizando React Native**.
+- 🌐 Experiência no desenvolvimento de aplicações web e integração com APIs.
+- 🗄️ Conhecimento em bancos de dados relacionais e soluções Backend as a Service.
+- ⚙️ Interesse em arquitetura de software, performance e código limpo.
+- 🚀 Sempre explorando novas tecnologias e buscando evoluir como desenvolvedor.
 
-<br/>
+---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Frontend & Mobile
+### 📱 Mobile Development
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,ts,html,css&theme=dark&perline=8"
-    alt="Frontend Technologies"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,apple&theme=dark" alt="Mobile Technologies"/>
 </p>
 
-**React Native • React • Next.js • Vue.js • Angular**
+**React Native • TypeScript • JavaScript • Android • iOS**
 
-### ⚙️ Backend & Banco de Dados
+### 💻 Frontend Development
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,sqlite&theme=dark"
-    alt="Backend Technologies"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css&theme=dark" alt="Frontend Technologies"/>
 </p>
 
-### 🔧 Ferramentas & Bibliotecas
+**React • Next.js • Vue.js • Angular • HTML • CSS**
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,redux,styledcomponents&theme=dark&perline=6"
-    alt="Development Tools"
-  />
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,sqlite&theme=dark" alt="Backend and Database"/>
 </p>
 
-<br/>
+**Node.js • Firebase • Supabase • MySQL • SQLite**
 
-## 📊 GitHub Analytics
+### 🔧 Tools & Technologies
 
-<div align="center">
-  <img
-    height="190"
-    src="https://github-stats-extended.vercel.app/api?username=Mynameisjohndev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    height="190"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mynameisjohndev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-    alt="Most Used Languages"
-  />
-</div>
-
-<br/>
-
-## 🔥 Contribuições
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Mynameisjohndev&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br/>
-
-## 🚀 Desenvolvimento
-
-<p align="center">
-  Gosto de transformar ideias em aplicações funcionais,
-  combinando código bem estruturado, interfaces modernas
-  e uma boa experiência para o usuário.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,redux,styledcomponents,postman&theme=dark" alt="Developer Tools"/>
 </p>
+
+**Git • GitHub • VS Code • Redux • Styled Components • Postman**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-  **Clean Code • Performance • UI/UX • Mobile Development**
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Mynameisjohndev&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 
-  <br/>
-
-  <a href="https://github.com/Mynameisjohndev?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynameisjohndev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 
 </div>
 
+---
+
+## 🚀 Áreas de atuação
+
+- **Mobile:** desenvolvimento de aplicativos multiplataforma.
+- **Frontend:** construção de interfaces web modernas e responsivas.
+- **Backend:** integração e desenvolvimento de APIs e serviços.
+- **Database:** modelagem, consultas e gerenciamento de dados.
+- **Cloud:** integração com Firebase e Supabase.
+
+---
+
+<div align="center">
+
+### 💬 Vamos nos conectar?
+
+<a href="https://github.com/Mynameisjohndev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/Mynameisjohndev?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<br/>
 <br/>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=110&section=footer"
-/>
+**Full Stack Developer • Currently focused on Mobile Development**
+
+</div>
